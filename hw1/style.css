@@ -1,0 +1,50 @@
+/*#Willow{
+	width: 30%;
+}
+
+#Baobab{
+	width: 30%;
+}
+
+#Banyan{
+	width: 30%;
+}
+
+#Juniper{
+	width: 30%;
+}
+
+figure{
+	font-family: Courier New;
+}
+*/
+footer{
+	font-family: Courier New;
+}
+
+.note{
+	font-family: Courier New;
+	text-align: center;
+}
+
+
+/*#simple {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    height: auto; 
+}
+
+#images{
+    float: left; 
+    width: 30%; 
+    margin-right: 1%; 
+    margin-bottom: 0.5em;
+}
+
+#center{
+	text-align:center;
+}
+*/
+

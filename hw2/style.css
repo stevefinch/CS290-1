@@ -1,0 +1,109 @@
+
+#top_nav_bar{
+	margin-top: -7%;
+	padding-bottom: 38px;
+}
+
+#head_img{
+	width: 100%;
+	margin-top: -10px;
+}
+
+.top_nav_links{
+	color: white;
+	font-family: open sans condensed;
+	font-size: 200%;
+	padding-left: 6%;
+	padding-right: 4%;
+}
+
+header{
+	text-align: center;
+}
+
+h1{
+	font-family: Courgette;
+	color: #00EEEE
+}
+
+.main_title{
+	padding-bottom: 3px;
+}
+
+#body_p{
+	font-family: Roboto;
+	text-align: center;
+	text-decoration-color: white;
+	line-height: 140%;
+}
+
+.main{
+	/*margin-top: 10%; */
+	border: 1px solid white;
+	border-radius: 10px;
+	box-shadow: 10px 10px #ff91a4;
+	/*
+	background-color: white;
+	opacity: 0.7;
+	*/
+	background:rgba(255,255,255,0.7);
+	
+	margin: auto;
+	width: 60%;
+	padding-left: 5px;
+    padding-right: 5px;
+}
+
+#main_img{
+	/*
+	opacity: 1.0;
+	*/
+	width: 40%;
+	float: left;
+	border: 1px solid black;
+	border-radius: 10px;
+	padding: .5%;
+	box-shadow: 5px 5px #ff91a4;
+	margin-right: 5px;
+}
+
+#page_title{
+	text-align: center;
+	margin-top: -6px;
+	margin-bottom: -6px;
+	font-size: 350%;
+
+}
+
+body{
+	background-image: url("https://st2.depositphotos.com/4491777/6847/v/950/depositphotos_68470341-stock-illustration-tropical-palm-leaves-pattern.jpg");
+}
+
+#bottom_list ul li{
+	margin-left: 30px;
+}
+
+footer{
+	background-color: #4d1c6d;
+	position: fixed;
+	text-align: center;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	font-family: open sans condensed;
+}
+
+#footer{
+		color: white;
+}
+
+ul {
+	color: white;
+    list-style-image: url('https://www.emastercam.com/uploads/emoticons/NewSmiliesforDarkSkins_cool.gif');
+    margin: 0;
+    padding-left: 10px;
+}
+ p, ul{
+ 	display: inline;
+ 	color: black;
+ }
